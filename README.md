@@ -41,17 +41,6 @@ Dashboard analitik komprehensif yang menyajikan insights mendalam tentang perfor
 - **Geographic Mapping**: Bing Maps Integration
 - **Analytics**: DAX Formulas, Power Query
 
-## 📁 Project Structure
-
-```
-├── data/
-│   └── sales_data_2023_2025.xlsx
-├── dashboard/
-│   └── jakarta_sales_analytics.pbix
-├── reports/
-│   └── segmentation_analysis.pdf
-└── README.md
-```
 
 ## 🚀 Strategic Recommendations
 
